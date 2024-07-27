@@ -173,8 +173,8 @@ CHALLENGES FACED:
 
 CONTRIBUTIONS
 VIGNESWAR: Gear design, code for Electronic Differential.
-NISANTH: Design of differential  gear housing, housing shell plate, friction plate, pressure plates, hub, pin. Overall assembly in a precise manner.
-NIHAL: FEA, Assembly of the gears into the overall assembly in a precise manner.
+NISANTH: Design of differential  gear housing, housing, steel plate, friction plate, pressure plates, hub, pin. Overall assembly of the model.
+NIHAL: FEA, Assembly of the gears into the overall assembly.
 PRAVEEN: Bearings, Getting resources and Documentation.
 
 References:
