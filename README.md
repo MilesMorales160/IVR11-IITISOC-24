@@ -169,15 +169,17 @@ References
 •	https://www.scribd.com/document/650337936/Vernier-depth-gauge
 
 CHALLENGES FACED:
-
+We especially faced challenges and learnt many things while assembling the gears.
 
 CONTRIBUTIONS
 VIGNESWAR: Gear design, code for Electronic Differential.
-NISANTH: Design of differential  gear housing, housing, steel plate, friction plate, pressure plates, hub, pin. Overall assembly of the model.
+NISANTH: Design of differential  gear housing, housing, steel plate, friction plate, pressure plates, hub, pin. Overall assembly of the model.Gave a support to teammate to do ansys simulations.
 NIHAL: FEA, Assembly of the gears into the overall assembly.
 PRAVEEN: Bearings, Getting resources and Documentation.
 
 References:
 Google resources (uploaded in git), Youtube (links provided previosly, chatgpt for doubts. 
+For assembly we have referred the following video.
+https://youtu.be/1jbkHboGHNo?si=QPWkMYaLSTDH80Hw
 
 
