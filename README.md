@@ -73,7 +73,7 @@ o	Apply fillets to edges to reduce stress concentrations and enhance manufactura
 
 2. Friction Plate
 1.	Define Dimensions:
-o	Determine outer and inner diameters, thickness, and the profile of friction material.
+o	Determine outer and inner diameters, thickness.
 2.	Create Base Sketch:
 o	Start a new sketch on the XY plane.
 o	Draw the outer and inner circles.
@@ -84,7 +84,7 @@ o	Add teeth or tabs along the inner or outer edge to interlock with the LSD hub 
 o	Create slots or perforations if needed for better friction characteristics.
 3. Pressure Plate
 1.	Define Dimensions:
-o	Determine the diameter, thickness, and features like spring pockets or load distribution patterns.
+o	Determine the diameter, thickness.
 2.	Create Base Sketch:
 o	Start a new sketch on the XY plane.
 o	Draw the outer circle and any inner features.
@@ -167,6 +167,9 @@ References
 •	https://www.irjmets.com/uploadedfiles/paper/volume3/issue_1_january_2021/5876/1628083241.pdf
 •	https://youtu.be/921ToiOynMA
 •	https://www.scribd.com/document/650337936/Vernier-depth-gauge
+
+CHALLENGES FACED:
+
 
 CONTRIBUTIONS
 VIGNESWAR: Gear design, code for Electronic Differential.
